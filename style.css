@@ -1,0 +1,98 @@
+body{
+margin: 0;
+text-align: center;
+color: #40514E;
+
+}
+p{
+  font-size: 20px;
+  line-height: 2;
+}
+h1{
+  margin: 0;
+  font-family: 'Niconne', cursive;
+font-family: 'Fredericka the Great', cursive;
+  font-size: 64px;
+  color: #66BFBF;
+}
+.head,h2,h3{
+  font-family: 'Niconne', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Merriweather', serif;
+font-size: 30px;
+color: #66BFBF;
+}
+.box{
+  background-color: #EAF6F6;
+  padding-top: 140px;
+}
+.uc{
+  position: absolute;
+  right: 130px;
+    top: 100px;
+}
+.bc{
+  position: absolute;
+left: 200px;}
+.my{
+  padding-top: 50px;
+}
+.skill-row{
+  margin:  auto 30%;
+}
+.middle-container{
+  padding: 30px auto 30px;
+
+}
+.contact-me{
+  padding-top: 30px;
+}
+
+.myButton {
+	background:linear-gradient(to bottom, #66BFBF 5%,#66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:10px;
+	border:1px solid #519898;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:23px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 3px #519898;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #519898 5%, #hsl(360, 100%, 100%); 100%);
+	background-color:#66BFBF;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton{
+  margin:20px auto 60px;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding-top: 40px;
+
+}
+.cp{
+  margin-bottom: 0;
+  font-size: 0.7em;
+}
+.footer-link{
+  font-family: 'Niconne', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Merriweather', serif;
+text-decoration: none;
+font-size: 1.5em;
+margin-left: 20px;
+color:#519898 }
+hr{
+  margin: auto 20%;
+  border: none;
+  border-top: dotted;
+  border-width: thick;
+}
